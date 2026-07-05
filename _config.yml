@@ -13,10 +13,10 @@ title                    : "Eugene Kim"
 title_separator          : "-"
 name                     : &name "Eugene Kim"
 description              : &description "Quantitative developer and researcher working across energy trading, optimisation, machine learning, and physics-informed modelling."
-url                      : https://eugenekim.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://eugkim0120.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EugeneKim/eugenekim.github.io"
+repository               : "eugkim0120/eugkim0120.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
