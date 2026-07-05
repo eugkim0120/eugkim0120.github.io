@@ -58,12 +58,15 @@ Researching compute-efficient neural operator models for simulating inertial con
 
 ## Projects
 
-### GlassNest
-Transparent rental intelligence platform — structured reviews, AI insights, and honest landlord ratings. Built with FastAPI, async SQLAlchemy, LLM enrichment pipeline, and Next.js frontend. [glass-nest.vercel.app](https://glass-nest.vercel.app)
+### GlassNest — A Glassdoor for rentals
+
+Rental decisions are made in the dark — listings hide their flaws, landlords are never reviewed. GlassNest fixes this by combining continuous property scraping (100+ UK areas, Rightmove + SpareRoom), enrichment from government data sources (EPC, crime, flood, transport, air quality), and structured tenant reviews analysed by a local LLM pipeline.
+
+Built with Python 3.12, FastAPI, async SQLAlchemy, Leaflet maps, Playwright scrapers, and a multi-agent orchestration system. Contribution-based (flock) access model. Deployed at [glass-nest.vercel.app](https://glass-nest.vercel.app).
 
 ### "Hinge for M&A" — Winner, Multi-agent Hackathon London
 
-Deployed a multi-agent system that researches matching targets for M&A acquirers, places verified information into structured databases in Senso, and surfaces results through a Hinge-like UI.
+Autonomous multi-agent system that researches M&A acquisition targets: agents browse the web for verified intelligence, populate structured databases in Senso, and surface matches through a Hinge-like swiping interface. Winner of the Multi-agent Hackathon London.
 
 ## Technical skills
 

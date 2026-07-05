@@ -53,10 +53,23 @@ Built a Scope 3 carbon-emissions and risk model used in the client's FCA and PSR
 ## Projects
 
 **GlassNest — Transparent Rental Intelligence**
-A platform that aggregates rental listings, scrapes reviews, and applies AI analysis to provide honest landlord ratings and structured property insights. Built with FastAPI, async SQLAlchemy, and an LLM enrichment pipeline. [glass-nest.vercel.app](https://glass-nest.vercel.app)
+*A Glassdoor for the rental market*
+
+Rental decisions are made in the dark — listings hide their flaws, landlords are never reviewed, and tenants sign contracts knowing less about a £20,000+ commitment than they would about a £20 Amazon purchase. GlassNest fixes this.
+
+The platform continuously scrapes 100+ UK areas across Rightmove and SpareRoom, enriches every property with EPC ratings, crime data, flood risk, transport access, and air quality from government APIs, then overlays tenant-submitted structured reviews. A local LLM pipeline extracts insights, computes landlord scores, and generates area-level intelligence.
+
+**Flock access model** — contribute a review to unlock all reviews. Fair exchange rather than a paywall, designed to solve the cold-start problem without charging users.
+
+Tech: Python 3.12, FastAPI (async), SQLAlchemy async, SQLite/PostgreSQL, Jinja2 + Leaflet UI, LLM analysis pipeline, Playwright-based scraper, async enrichment workers. Multi-agent architecture with Claude Code agents coordinating through an Obsidian vault for task orchestration.
+
+[glass-nest.vercel.app](https://glass-nest.vercel.app)
+
+---
 
 **"Hinge for M&A" — Winner, Multi-agent Hackathon London**
-A multi-agent system for researching acquisition targets, placing verified information into structured databases, and surfacing matches through a Hinge-like UI.
+
+A multi-agent system that researches acquisition targets for M&A firms. Agents autonomously browse the web to gather verified information about target companies, populate structured databases in Senso, and surface the most promising matches through a Hinge-like swiping interface — combining M&A research depth with consumer-grade UX. Winner of the Multi-agent Hackathon London.
 
 ## Technical toolkit
 
