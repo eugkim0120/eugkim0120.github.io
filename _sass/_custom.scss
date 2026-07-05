@@ -45,3 +45,14 @@
   border-radius: 10px;
   background: #fff;
 }
+
+.institution-logo--dark,
+.logo-strip img.logo-dark {
+  background: #222;
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.institution-heading .institution-logo {
+  width: 72px;
+  max-width: 72px;
+}

@@ -19,7 +19,7 @@ Quantitative developer and researcher working across energy markets, dispatch op
   <img src="/images/logos/totalenergies.png" alt="TotalEnergies logo">
   <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
   <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
-  <img src="/images/logos/capitox.webp" alt="CapitOx logo">
+  <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo">
 </div>
 
 ## Experience
@@ -42,7 +42,7 @@ Quantitative developer and researcher working across energy markets, dispatch op
 - Co-designed and deployed an mFRR price model using autoregressive modelling and maximum likelihood estimation with NIV-linked drivers.
 - Evaluated competitor flow-based optimisation models and developed a KPI scorecard.
 
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/capitox.webp" alt="CapitOx logo"><h3>CapitOx — Carbon Emissions Consultant</h3></div>
+<div class="institution-heading"><img class="institution-logo institution-logo--dark" src="/images/logos/capitox.webp" alt="CapitOx logo"><h3>CapitOx — Carbon Emissions Consultant</h3></div>
 *Oct 2022 – Dec 2022*
 
 - Built a Scope 3 carbon-emissions and risk model used in the client’s *FCA and PSR Net Zero Transition Plan* report.
