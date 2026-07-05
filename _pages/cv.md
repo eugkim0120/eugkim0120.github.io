@@ -15,13 +15,6 @@ London, UK · US citizen · [LinkedIn](https://www.linkedin.com/in/ekim2002) · 
 
 Quantitative developer and researcher working across energy markets, dispatch optimisation, machine learning, statistical modelling, and scientific computing.
 
-<div class="logo-strip" aria-label="Institutions">
-  <img src="/images/logos/totalenergies.png" alt="TTEP logo">
-  <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
-  <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
-  <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);">
-</div>
-
 ## Research and education
 
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
@@ -40,7 +33,7 @@ Researching compute-efficient neural operator models for simulating inertial con
 
 ## Experience
 
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/ttep.svg" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
 *Feb 2026 – Present*
 
 - Built cross-asset dispatch-optimisation software for a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass portfolio across GB day-ahead, intraday, balancing, and ancillary-services markets.

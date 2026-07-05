@@ -27,7 +27,7 @@ Co-authored a nuclear fusion simulation paper: *Energy gain of wetted-foam implo
 
 ## Selected experience
 
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/ttep.svg" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
 *Feb 2026 – Present*
 
 I build production trading and research software for a portfolio spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass asset base. Recent work includes live dispatch-optimisation tooling, deployed forecasting models, NLP gas-price sentiment signals, and Python/FastAPI/Streamlit replacements for legacy Excel workflows.
@@ -41,13 +41,6 @@ I built BESS backtesting and market-modelling dashboards, automated data pipelin
 *Oct 2022 – Dec 2022*
 
 Built a Scope 3 carbon-emissions and risk model used in the client's FCA and PSR Net Zero Transition Plan report.
-
-<div class="logo-strip" aria-label="Institutions">
-  <img src="/images/logos/totalenergies.png" alt="TTEP logo">
-  <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
-  <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
-  <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);">
-</div>
 
 ## Focus areas
 
