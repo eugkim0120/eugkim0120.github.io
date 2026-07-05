@@ -15,7 +15,7 @@ I currently work as a **Quantitative Developer & Researcher at TTEP / TotalEnerg
   <img src="/images/logos/totalenergies.png" alt="TotalEnergies logo">
   <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
   <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
-  <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo">
+  <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);">
 </div>
 
 ## Focus areas
