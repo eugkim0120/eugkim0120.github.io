@@ -9,7 +9,9 @@ redirect_from:
 
 I'm a quantitative developer and researcher based in London. I'm a US citizen, working at the intersection of energy markets, optimisation, machine learning, and physics-informed modelling.
 
-I currently work as a **Quantitative Developer & Researcher at TTEP (TotalEnergies & EP)**, building tools for live trading and research across GB power markets. My recent work includes dispatch optimisation for large-scale generation and storage portfolios, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
+My current research focus is **AI surrogate modelling for inertial confinement fusion** at the University of Oxford, where I work on compute-efficient neural operator models for approximating expensive fusion simulations and accelerating high-dimensional design-space exploration.
+
+I also work as a **Quantitative Developer & Researcher at TTEP (TotalEnergies & EP)**, building tools for live trading and research across GB power markets. My recent work includes dispatch optimisation for large-scale generation and storage portfolios, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
 
 ## Research and education
 
@@ -64,6 +66,8 @@ The platform continuously scrapes 100+ UK areas across Rightmove and SpareRoom, 
 Tech: Python 3.12, FastAPI (async), SQLAlchemy async, SQLite/PostgreSQL, Jinja2 + Leaflet UI, LLM analysis pipeline, Playwright-based scraper, async enrichment workers. Multi-agent architecture with Claude Code agents coordinating through an Obsidian vault for task orchestration.
 
 [glass-nest.vercel.app](https://glass-nest.vercel.app)
+
+[See more projects](/projects/)
 
 ---
 
