@@ -57,7 +57,7 @@ Built a Scope 3 carbon-emissions and risk model used in the client's FCA and PSR
 **GlassNest — Transparent Rental Intelligence**
 *A Glassdoor for the rental market*
 
-Rental decisions are made in the dark — listings hide their flaws, landlords are never reviewed, and tenants sign contracts knowing less about a £20,000+ commitment than they would about a £20 Amazon purchase. GlassNest fixes this.
+Rental decisions are made in the dark — listings hide their flaws, landlords are never reviewed, and tenants sign contracts knowing less about a £300 million commitment than they would about a £20 Amazon purchase. GlassNest fixes this.
 
 The platform continuously scrapes 100+ UK areas across Rightmove and SpareRoom, enriches every property with EPC ratings, crime data, flood risk, transport access, and air quality from government APIs, then overlays tenant-submitted structured reviews. A local LLM pipeline extracts insights, computes landlord scores, and generates area-level intelligence.
 
