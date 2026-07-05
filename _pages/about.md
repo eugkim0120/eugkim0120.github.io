@@ -11,7 +11,7 @@ I'm a quantitative developer and researcher based in London. I'm a US citizen, w
 
 My current research focus is **AI surrogate modelling for inertial confinement fusion** at the University of Oxford, where I work on compute-efficient neural operator models for approximating expensive fusion simulations and accelerating high-dimensional design-space exploration.
 
-I also work as a **Quantitative Developer & Researcher at TTEP (TotalEnergies & EP)**, where I build tools for live trading and research across GB power markets and help optimise decisions across a roughly **£1bn energy portfolio**. My recent work includes dispatch optimisation for large-scale generation and storage assets, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
+I also work as a **Quantitative Developer & Researcher at TTEP (TotalEnergies & EP)**, where I build tools for live trading and research across GB power markets and help optimise decisions across a roughly **£300m energy portfolio**. My recent work includes dispatch optimisation for large-scale generation and storage assets, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
 
 ## Research and education
 
@@ -32,7 +32,7 @@ Co-authored a nuclear fusion simulation paper: *Energy gain of wetted-foam implo
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/ttep.svg" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
 *Feb 2026 – Present*
 
-I build production trading and research software used to optimise a roughly **£1bn portfolio** spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass asset base. Recent work includes live dispatch-optimisation tooling, deployed forecasting models, NLP gas-price sentiment signals, and Python/FastAPI/Streamlit replacements for legacy Excel workflows.
+I build production trading and research software used to optimise a roughly **£300m portfolio** spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass asset base. Recent work includes live dispatch-optimisation tooling, deployed forecasting models, NLP gas-price sentiment signals, and Python/FastAPI/Streamlit replacements for legacy Excel workflows.
 
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
 *Sep 2024 – Feb 2026*

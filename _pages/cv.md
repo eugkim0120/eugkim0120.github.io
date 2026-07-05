@@ -41,7 +41,7 @@ Researching **AI surrogate modelling for inertial confinement fusion** with Prof
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/ttep.svg" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
 *Feb 2026 – Present*
 
-- Built cross-asset dispatch-optimisation software used to optimise decisions across a roughly **£1bn portfolio**, spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass assets across GB day-ahead, intraday, balancing, and ancillary-services markets.
+- Built cross-asset dispatch-optimisation software used to optimise decisions across a roughly **£300m portfolio**, spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass assets across GB day-ahead, intraday, balancing, and ancillary-services markets.
 - Deployed price-forecasting models using XGBoost and LightGBM, plus an NLP gas-price-sentiment signal, into the trading stack.
 - Built a MILP-based BESS dispatch optimiser with Bayesian parameter tuning.
 - Built internal AI-agent tooling and context layers using MCP-style context, Microsoft Fabric data management, and Git automation for quant development workflows.
