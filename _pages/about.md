@@ -16,7 +16,7 @@ I currently work as a **Quantitative Developer & Researcher at TTEP (TotalEnergi
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
 *May 2026 – Present*
 
-I'm researching compute-efficient neural operator models for simulating inertial confinement fusion reactions with Prof. Peter Norreys.
+I'm researching **AI surrogate modelling for inertial confinement fusion** with Prof. Peter Norreys. The work focuses on compute-efficient neural operator models that approximate expensive physics simulations, enabling faster exploration of high-dimensional fusion design spaces, parameter sweeps, and optimisation workflows.
 
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — MPhys Master of Physics</h3></div>
 *Sep 2020 – Jun 2024*

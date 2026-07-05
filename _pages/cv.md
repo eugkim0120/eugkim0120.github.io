@@ -20,7 +20,12 @@ Quantitative developer and researcher working across energy markets, dispatch op
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
 *May 2026 – Present*
 
-Researching compute-efficient neural operator models for simulating inertial confinement fusion reactions with Prof. Peter Norreys.
+Researching **AI surrogate modelling for inertial confinement fusion** with Prof. Peter Norreys. The work focuses on building compute-efficient neural operator models that can approximate expensive physics simulations, making it faster to explore high-dimensional fusion design spaces and reason about reaction dynamics without running a full simulation for every candidate scenario.
+
+- Developing surrogate models for PDE-driven fusion simulations, with an emphasis on accuracy, stability, and computational efficiency.
+- Exploring neural operators and related scientific ML architectures for learning mappings between physical inputs and simulated plasma / fusion outputs.
+- Using surrogate models to accelerate parameter sweeps, sensitivity analysis, and optimisation loops that would otherwise be constrained by expensive first-principles simulation.
+- Connecting this research with prior work using Bayesian optimisation to identify regions of interest in nuclear-fusion simulation parameter space.
 
 <div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — MPhys Master of Physics</h3></div>
 *Sep 2020 – Jun 2024*
