@@ -15,9 +15,16 @@ London, UK · [LinkedIn](https://www.linkedin.com/in/ekim2002) · [GitHub](https
 
 Quantitative developer and researcher working across energy markets, dispatch optimisation, machine learning, statistical modelling, and scientific computing.
 
+<div class="logo-strip" aria-label="Institutions">
+  <img src="/images/logos/totalenergies.png" alt="TotalEnergies logo">
+  <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
+  <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
+  <img src="/images/logos/capitox.webp" alt="CapitOx logo">
+</div>
+
 ## Experience
 
-### TTEP / TotalEnergies — Quantitative Developer & Researcher
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TotalEnergies logo"><h3>TTEP / TotalEnergies — Quantitative Developer & Researcher</h3></div>
 *Feb 2026 – Present*
 
 - Built cross-asset dispatch-optimisation software for a 3GW CCGT, 400MW BESS, and 400MW biomass portfolio across GB day-ahead, intraday, balancing, and ancillary-services markets.
@@ -26,7 +33,7 @@ Quantitative developer and researcher working across energy markets, dispatch op
 - Built internal AI-agent tooling and context layers using MCP-style context, Microsoft Fabric data management, and Git automation for quant development workflows.
 - Migrated legacy Excel workflows to Python with FastAPI and Streamlit dashboards; improved core pipeline runtime through caching, Polars, and switching MILP solving from CBC to HiGHS.
 
-### Aurora Energy Research — Energy Modelling Analyst
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
 *Sep 2024 – Feb 2026*
 
 - Built the company’s first BESS backtesting dashboard, automating data pipelines via ENTSO-E and TSO APIs.
@@ -35,19 +42,19 @@ Quantitative developer and researcher working across energy markets, dispatch op
 - Co-designed and deployed an mFRR price model using autoregressive modelling and maximum likelihood estimation with NIV-linked drivers.
 - Evaluated competitor flow-based optimisation models and developed a KPI scorecard.
 
-### Capitox — Carbon Emissions Consultant
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/capitox.webp" alt="CapitOx logo"><h3>CapitOx — Carbon Emissions Consultant</h3></div>
 *Oct 2022 – Dec 2022*
 
 - Built a Scope 3 carbon-emissions and risk model used in the client’s *FCA and PSR Net Zero Transition Plan* report.
 
 ## Research and education
 
-### University of Oxford — Visiting Fellow
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
 *May 2026 – Present*
 
 Researching compute-efficient neural operator models for simulating inertial confinement fusion reactions with Prof. Peter Norreys.
 
-### University of Oxford — MPhys Master of Physics
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — MPhys Master of Physics</h3></div>
 *Sep 2020 – Jun 2024*
 
 - Upper Second-Class Honours.
