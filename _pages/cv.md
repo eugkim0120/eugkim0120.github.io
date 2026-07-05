@@ -11,41 +11,16 @@ redirect_from:
 
 ## Eugene Kim
 
-London, UK · [LinkedIn](https://www.linkedin.com/in/ekim2002) · [GitHub](https://github.com/eugkim0120)
+London, UK · US citizen · [LinkedIn](https://www.linkedin.com/in/ekim2002) · [GitHub](https://github.com/eugkim0120)
 
 Quantitative developer and researcher working across energy markets, dispatch optimisation, machine learning, statistical modelling, and scientific computing.
 
 <div class="logo-strip" aria-label="Institutions">
-  <img src="/images/logos/totalenergies.png" alt="TotalEnergies logo">
+  <img src="/images/logos/totalenergies.png" alt="TTEP logo">
   <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
   <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
   <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);">
 </div>
-
-## Experience
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TotalEnergies logo"><h3>TTEP / TotalEnergies — Quantitative Developer & Researcher</h3></div>
-*Feb 2026 – Present*
-
-- Built cross-asset dispatch-optimisation software for a 3GW CCGT, 400MW BESS, and 400MW biomass portfolio across GB day-ahead, intraday, balancing, and ancillary-services markets.
-- Deployed price-forecasting models using XGBoost and LightGBM, plus an NLP gas-price-sentiment signal, into the trading stack.
-- Built a MILP-based BESS dispatch optimiser with Bayesian parameter tuning.
-- Built internal AI-agent tooling and context layers using MCP-style context, Microsoft Fabric data management, and Git automation for quant development workflows.
-- Migrated legacy Excel workflows to Python with FastAPI and Streamlit dashboards; improved core pipeline runtime through caching, Polars, and switching MILP solving from CBC to HiGHS.
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
-*Sep 2024 – Feb 2026*
-
-- Built the company’s first BESS backtesting dashboard, automating data pipelines via ENTSO-E and TSO APIs.
-- Recalibrated degradation, round-trip efficiency, and dispatch methodology, with P&L attribution for client analysis.
-- Built company-wide dashboards visualising fundamentals power-model outputs, including day-ahead KPI backtesting and merit-order curves for aFRR markets.
-- Co-designed and deployed an mFRR price model using autoregressive modelling and maximum likelihood estimation with NIV-linked drivers.
-- Evaluated competitor flow-based optimisation models and developed a KPI scorecard.
-
-<div class="institution-heading"><img class="institution-logo institution-logo--dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);"><h3>CapitOx — Carbon Emissions Consultant</h3></div>
-*Oct 2022 – Dec 2022*
-
-- Built a Scope 3 carbon-emissions and risk model used in the client’s *FCA and PSR Net Zero Transition Plan* report.
 
 ## Research and education
 
@@ -58,14 +33,42 @@ Researching compute-efficient neural operator models for simulating inertial con
 *Sep 2020 – Jun 2024*
 
 - Upper Second-Class Honours.
-- Master’s thesis: *Atomic Trapping and Imaging of Ultracold Quantum Dipolar Gases*.
+- Master's thesis: *Atomic Trapping and Imaging of Ultracold Quantum Dipolar Gases*.
 - Implemented Python edge-detection algorithms to classify the quality of circular atomic traps.
-- Co-authored a nuclear fusion simulation paper in an Institute of Physics journal, using Bayesian optimisation to identify regions of interest in PDE-based simulation parameter space.
+- Co-authored a nuclear fusion simulation paper in *Plasma Physics and Controlled Fusion*: *Energy gain of wetted-foam implosions with auxiliary heating for inertial fusion studies* ([DOI: 10.1088/1361-6587/ad15ee](https://doi.org/10.1088/1361-6587/ad15ee)), using Bayesian optimisation to identify regions of interest in PDE-based simulation parameter space.
 - Events Director, Oxford Physics Society; outreach at Oxford Energy Society.
+
+## Experience
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
+*Feb 2026 – Present*
+
+- Built cross-asset dispatch-optimisation software for a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass portfolio across GB day-ahead, intraday, balancing, and ancillary-services markets.
+- Deployed price-forecasting models using XGBoost and LightGBM, plus an NLP gas-price-sentiment signal, into the trading stack.
+- Built a MILP-based BESS dispatch optimiser with Bayesian parameter tuning.
+- Built internal AI-agent tooling and context layers using MCP-style context, Microsoft Fabric data management, and Git automation for quant development workflows.
+- Migrated legacy Excel workflows to Python with FastAPI and Streamlit dashboards; improved core pipeline runtime through caching, Polars, and switching MILP solving from CBC to HiGHS.
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
+*Sep 2024 – Feb 2026*
+
+- Built the company's first BESS backtesting dashboard, automating data pipelines via ENTSO-E and TSO APIs.
+- Recalibrated degradation, round-trip efficiency, and dispatch methodology, with P&L attribution for client analysis.
+- Built company-wide dashboards visualising fundamentals power-model outputs, including day-ahead KPI backtesting and merit-order curves for aFRR markets.
+- Co-designed and deployed an mFRR price model using autoregressive modelling and maximum likelihood estimation with NIV-linked drivers.
+- Evaluated competitor flow-based optimisation models and developed a KPI scorecard.
+
+<div class="institution-heading"><img class="institution-logo institution-logo--dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);"><h3>Capitox — Carbon Emissions Consultant</h3></div>
+*Oct 2022 – Dec 2022*
+
+- Built a Scope 3 carbon-emissions and risk model used in the client's FCA and PSR Net Zero Transition Plan report.
 
 ## Projects
 
-### “Hinge for M&A” — Winner, Multi-agent Hackathon London
+### GlassNest
+Transparent rental intelligence platform — structured reviews, AI insights, and honest landlord ratings. Built with FastAPI, async SQLAlchemy, LLM enrichment pipeline, and Next.js frontend. [glass-nest.vercel.app](https://glass-nest.vercel.app)
+
+### "Hinge for M&A" — Winner, Multi-agent Hackathon London
 
 Deployed a multi-agent system that researches matching targets for M&A acquirers, places verified information into structured databases in Senso, and surfaces results through a Hinge-like UI.
 

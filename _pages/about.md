@@ -7,12 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-I’m a quantitative developer and researcher based in London, working at the intersection of energy markets, optimisation, machine learning, and physics-informed modelling.
+I'm a quantitative developer and researcher based in London. I'm a US citizen, working at the intersection of energy markets, optimisation, machine learning, and physics-informed modelling.
 
-I currently work as a **Quantitative Developer & Researcher at TTEP / TotalEnergies**, building tools for live trading and research across GB power markets. My recent work includes dispatch optimisation for large-scale generation and storage portfolios, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
+I currently work as a **Quantitative Developer & Researcher at TTEP (TotalEnergies & EP)**, building tools for live trading and research across GB power markets. My recent work includes dispatch optimisation for large-scale generation and storage portfolios, price forecasting models, NLP market signals, and internal AI-agent tooling for quant development workflows.
+
+## Research and education
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
+*May 2026 – Present*
+
+I'm researching compute-efficient neural operator models for simulating inertial confinement fusion reactions with Prof. Peter Norreys.
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — MPhys Master of Physics</h3></div>
+*Sep 2020 – Jun 2024*
+
+Upper Second-Class Honours. Thesis: *Atomic Trapping and Imaging of Ultracold Quantum Dipolar Gases*, including Python-based edge detection algorithms for classifying circular atomic traps.
+
+Co-authored a nuclear fusion simulation paper: *Energy gain of wetted-foam implosions with auxiliary heating for inertial fusion studies*, published in *Plasma Physics and Controlled Fusion* (Vol. 66, 025005, 2024). The study used Bayesian optimisation to identify regions of interest in PDE-based simulation parameter space.
+
+## Selected experience
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TTEP logo"><h3>TTEP (TotalEnergies & EP) — Quantitative Developer & Researcher</h3></div>
+*Feb 2026 – Present*
+
+I build production trading and research software for a portfolio spanning a 3GW CCGT, 400MW Battery Energy Storage System (BESS), and 400MW biomass asset base. Recent work includes live dispatch-optimisation tooling, deployed forecasting models, NLP gas-price sentiment signals, and Python/FastAPI/Streamlit replacements for legacy Excel workflows.
+
+<div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
+*Sep 2024 – Feb 2026*
+
+I built BESS backtesting and market-modelling dashboards, automated data pipelines using ENTSO-E and TSO APIs, developed KPI backtesting and merit-order visualisations, and co-designed mFRR price modelling using AR and MLE methods.
+
+<div class="institution-heading"><img class="institution-logo institution-logo--dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);"><h3>Capitox — Carbon Emissions Consultant</h3></div>
+*Oct 2022 – Dec 2022*
+
+Built a Scope 3 carbon-emissions and risk model used in the client's FCA and PSR Net Zero Transition Plan report.
 
 <div class="logo-strip" aria-label="Institutions">
-  <img src="/images/logos/totalenergies.png" alt="TotalEnergies logo">
+  <img src="/images/logos/totalenergies.png" alt="TTEP logo">
   <img src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo">
   <img src="/images/logos/oxford.svg" alt="University of Oxford logo">
   <img class="logo-dark" src="/images/logos/capitox.webp" alt="CapitOx logo" style="background:#222;border-color:rgba(255,255,255,.25);">
@@ -26,29 +57,12 @@ I currently work as a **Quantitative Developer & Researcher at TTEP / TotalEnerg
 - **Physics and scientific computing:** Oxford MPhys background, ultracold atom imaging, nuclear fusion simulation, and neural operator models for inertial confinement fusion.
 - **AI developer tooling:** context layers, MCP-style workflows, data management, and Git automation for safer and faster technical work.
 
-## Selected experience
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/totalenergies.png" alt="TotalEnergies logo"><h3>TTEP / TotalEnergies — Quantitative Developer & Researcher</h3></div>
-
-I build production trading and research software for a portfolio spanning a 3GW CCGT, 400MW BESS, and 400MW biomass asset base. Recent work includes live dispatch-optimisation tooling, deployed forecasting models, NLP gas-price sentiment signals, and Python/FastAPI/Streamlit replacements for legacy Excel workflows.
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/aurora-energy-research.svg" alt="Aurora Energy Research logo"><h3>Aurora Energy Research — Energy Modelling Analyst</h3></div>
-
-I built BESS backtesting and market-modelling dashboards, automated data pipelines using ENTSO-E and TSO APIs, developed KPI backtesting and merit-order visualisations, and co-designed mFRR price modelling using AR and MLE methods.
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — Visiting Fellow</h3></div>
-
-I’m researching compute-efficient neural operator models for simulating inertial confinement fusion reactions with Prof. Peter Norreys.
-
-## Education
-
-<div class="institution-heading"><img class="institution-logo" src="/images/logos/oxford.svg" alt="University of Oxford logo"><h3>University of Oxford — MPhys Master of Physics</h3></div>
-
-Upper Second-Class Honours. Thesis: *Atomic Trapping and Imaging of Ultracold Quantum Dipolar Gases*, including Python-based edge detection algorithms for classifying circular atomic traps.
-
 ## Projects
 
-**“Hinge for M&A” — Winner, Multi-agent Hackathon London**  
+**GlassNest — Transparent Rental Intelligence**
+A platform that aggregates rental listings, scrapes reviews, and applies AI analysis to provide honest landlord ratings and structured property insights. Built with FastAPI, async SQLAlchemy, and an LLM enrichment pipeline. [glass-nest.vercel.app](https://glass-nest.vercel.app)
+
+**"Hinge for M&A" — Winner, Multi-agent Hackathon London**
 A multi-agent system for researching acquisition targets, placing verified information into structured databases, and surfacing matches through a Hinge-like UI.
 
 ## Technical toolkit
@@ -59,4 +73,4 @@ A multi-agent system for researching acquisition targets, placing verified infor
 - **Statistics:** stochastic optimisation, scenario optimisation, GARCH, ARIMA, MCMC, MLE
 - **Software:** FastAPI, Streamlit, GitHub, Azure DevOps, Linux / Windows VMs
 
-For a fuller summary, see my [CV](/cv/). You can also scan the [QR code](/qr/) for this site.
+For a fuller summary, see my [CV](/cv/).
