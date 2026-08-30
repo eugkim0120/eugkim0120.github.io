@@ -1,0 +1,18 @@
+[project]
+name    = "personal-site"
+summary = "The personal site, served by GitHub Pages."
+status  = "active"
+since   = "2026-03-01"
+
+[repo]
+path   = "/home/eugene/projects/eugkim0120.github.io"
+remote = "git@github.com:eugkim0120/eugkim0120.github.io.git"
+branch = "master"
+
+[deploy]
+strategy = "none"
+
+[data]
+# Served from the repository by GitHub Pages.
+stateless = true
+backups = []
