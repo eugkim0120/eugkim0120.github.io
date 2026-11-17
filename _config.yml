@@ -359,3 +359,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Every page forwards here (see _includes/head.html).
+redirect_target: "https://eugene-kim.vercel.app/"

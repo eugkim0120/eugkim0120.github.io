@@ -2,6 +2,11 @@
 
 <meta charset="utf-8">
 
+<!-- This site has moved. GitHub Pages cannot send HTTP redirects, so every page
+     forwards to the new site with a meta refresh and a script. -->
+<meta http-equiv="refresh" content="0; url={{ site.redirect_target }}">
+<script>window.location.replace("{{ site.redirect_target }}");</script>
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
